@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(to right,orange,aqua);
+}
+.main{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.colorPicker{
+    display: inline-block;
+}
+.color1{
+    margin: 10px;
+    transition: transform ease-out 500ms;
+}
+.color1:hover{
+    transform: scale(1.2);
+
+}
+.color2{
+    margin:10px;
+    transition: transform ease-out 500ms;
+}
+.color2:hover{
+    transform: scale(1.2);
+}
