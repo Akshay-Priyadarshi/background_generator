@@ -1,0 +1,19 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "Its just an app to generate the css for the linear gradient you create",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay-Priyadarshi/background_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshay-Priyadarshi/background_generator/issues"
+  },
+  "homepage": "https://github.com/Akshay-Priyadarshi/background_generator#readme"
+}
